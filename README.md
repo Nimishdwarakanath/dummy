@@ -38,7 +38,7 @@ Using **fortran_input_reader** lets you enter the input in the following manner:
 !end here
 ...
 ```
-Note that the variables in the input file can be "declared" in any order. In addition, the file can have comments and indentation for readability and 
+Note that the variables in the input file can be "declared" in any order. In addition, the file can have comments and indentation for readability.
 
 ## How to adopt it to my code?
 
